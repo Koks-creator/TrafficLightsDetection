@@ -2,7 +2,7 @@ import cv2
 
 from TrafficLightsYolov5.yolov5_detector import Yolov5Detector
 
-yolov5 = Yolov5Detector(model_path="last.pt")
+yolov5 = Yolov5Detector(model_path=r"model/last.pt")
 
 img = cv2.imread(rf"../images/test1.png")
 img_copy = img.copy()
