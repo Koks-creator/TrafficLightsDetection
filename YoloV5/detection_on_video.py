@@ -3,7 +3,7 @@ import cv2
 
 from TrafficLightsYolov5.yolov5_detector import Yolov5Detector
 
-yolov5 = Yolov5Detector(model_path="last.pt")
+yolov5 = Yolov5Detector(model_path=r"model/last.pt")
 cap = cv2.VideoCapture(r"..\videos\video (720p).mp4")
 
 p_time = 0
