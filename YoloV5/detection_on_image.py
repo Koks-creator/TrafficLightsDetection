@@ -1,6 +1,6 @@
 import cv2
 
-from TrafficLightsYolov5.yolov5_detector import Yolov5Detector
+from YoloV5.yolov5_detector import Yolov5Detector
 
 yolov5 = Yolov5Detector(model_path=r"model/last.pt")
 
