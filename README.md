@@ -7,7 +7,7 @@
 [![video](https://img.youtube.com/vi/lBZ-F-OED_I/0.jpg)](https://www.youtube.com/watch?v=lBZ-F-OED_I)
 
 
-<h3>How to train custom data using ultralitycis Yolov5</h3>
+<h3>How to train ultralitycis Yolov5 with custom data</h3>
 <ol>
   <li>Copy this notebook: https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb</li>
   <li>Add the following cells in Train section (after logging) to intergrate notebook with Google Drive: </li>
@@ -39,7 +39,7 @@ ralytics yolov5 (Setup section in notebook)</li>
 <h2>YoloV3</h2>
 
 [![video](https://img.youtube.com/vi/X4F-iaeY6fI/0.jpg)](https://www.youtube.com/watch?v=X4F-iaeY6fI)
-<h3>How to train custom data using ultralitycis Yolov3</h3>
+<h3>How to train Yolov3 with custom data</h3>
 <ol>
   <li>Copy my notebook from YoloV3 directory</li>
   <li>Create yolov3 folder in your Google Drive and upload images.zip file (there is just 1 folder with images and labels called images)</li>
