@@ -27,8 +27,7 @@
   ![structure](https://github.com/Koks-creator/TrafficLightsDetection/assets/73878161/708d82e3-833c-4912-963a-da8931640739)
 
   
-  <li>Setup ult![Uploading structure.png…]()
-ralytics yolov5 (Setup section in notebook)</li>
+  <li>Setup ultralytics yolov5 (Setup section in notebook)</li>
   <li>Download: /content/yolov5/data/coco128.yaml</li>
   <li>Adjust it the same as I did in /YoloV5/model/custom_data.yaml</li>
   <li>Start training, adjust the number of epochs (I suggest starting with 50). Training process is much faster comparing to
